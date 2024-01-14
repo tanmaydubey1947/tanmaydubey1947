@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Tanmay! 👋
 
-<!--
-**tanmaydubey1947/tanmaydubey1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java Software Developer with 2+ years of experience, holding the CKAD certification. Currently, I'm a part of the Ericsson team, where I focus on leveraging Java and associated technologies to create and deploy effective solutions.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Working with a range of tools and technologies, including Gradle, SQL, Linux OS, Minikube, Docker, Kubernetes, Git, Spring Framework, and REST APIs.
+- 🚀 Passionate about crafting high-quality software solutions that align with business requirements.
+- 🌱 Enthusiastic about Java and its ecosystem, always seeking innovative ways to enhance efficiency and drive progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- 👔 Currently at Ericsson, focusing on Java and deployment technologies.
+- 🛠 Previously honed skills in Retail and pharmacy at TCS.
+- 📚 Expertise in Agile Methodologies, Spring MVC, and Maven.
+
+## Let's Connect!
+- 🤝 Always open to new opportunities for collaboration and learning.
+
+Let's code and build something awesome together! 🚀
