@@ -1,6 +1,6 @@
 # Hello, I'm Tanmay! 👋
 
-I'm a Java Software Developer with 3.5+ years of experience, holding the CKAD certification. Currently, I'm a part of the Ericsson team, where I focus on leveraging Java and associated technologies to create and deploy effective solutions.
+I'm a Java Software Engineer with 3.5+ years of experience, holding the CKAD certification. Currently, I'm a part of the Ericsson team, where I focus on leveraging Java and associated technologies to create and deploy effective solutions.
 
 ## About Me
 - 💻 Working with a range of tools and technologies, including Gradle, SQL, Linux OS, Minikube, Docker, Kubernetes, Git, Spring Framework, and REST APIs.
